@@ -50,8 +50,22 @@ repo git : https://github.com/patmulot/space-patvaders
 
 ***Penser a activer le bouton "ON" de la gameboy pour lancer le jeu***
 
-![space-patvaders-img1](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img1.JPG)
 ![space-patvaders-img2](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img2.JPG)
+
+
+---
+## ELEM CREATOR
+principaux langages/techno utilisés :
+- SASS
+- Javascript Vanilla
+- Parcel
+
+repo git : https://github.com/patmulot/elem-creator
+  
+  
+*outil de dessin / création d'éléments (un peu façon DAO), création d'éléments du dom et modification de règles CSS via javascript. Appuyer sur le bouton plus pour ajouter un nouvel élément et modifier sa taille, sa forme, sa couleur, sa position, ajouter d'autres éléments.*
+
+![elem-creator-img2](https://github.com/patmulot/elem-creator/blob/main/elem-creator-img2.JPG)
 
 
     (\/)
