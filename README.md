@@ -1,4 +1,4 @@
-![Cover](https://user-images.githubusercontent.com/80677100/img/[img-cul-de-chouette.jpg)
+![Cover](https://user-images.githubusercontent.com/80677100/img/img-cul-de-chouette.jpg)
 ### Hi there 👋
 
 **patmulot/patmulot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
