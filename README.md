@@ -5,9 +5,11 @@
 
 *Ancien Concepteur/développeur de produits industriels en bureau d’études orienté eco-conception :bulb: :mag: ainsi qu’ancien musicien professionnel :guitar: reconverti dans le developpement web.*
 
+#creativity #thereAreOnlySolutions 
+
 ---
 # MES DERNIERS PROJETS 
-*travaux effectués ces 5 derniers mois (avril-aout) en paralèlle de ma formation au près de l'organisme O'clock *
+*travaux effectués ces 5 derniers mois (avril-aout) en paralèlle de ma formation au près de l'organisme O'clock*
 
 ---
 ## GETGIG (http://get-gig.surge.sh/)
@@ -32,6 +34,8 @@ repo git : https://github.com/patmulot/cul-de-chouette
   
 *Jeu de dés "le cul de chouette" de la série Kaamelott, découverte de javascript (animation des dés et algo pour la gestion des règles du jeu et intelligence articifielle), découverte des base de données/requêtes sql (pour la gestion des scores et des statistiques joueurs)*
 
+
+
 ---
 ## SPACE PATVADERS
 principaux langages/techno utilisés :
@@ -45,3 +49,12 @@ repo git : https://github.com/patmulot/space-patvaders
 
 ***Penser a activer le bouton "ON" de la gameboy pour lancer le jeu***
 
+![space-patvaders-img1](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img1.JPG = 250x))
+
+![space-patvaders-img2](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img2.JPG = 250x))
+
+
+
+    (\/)
+    (^.^)      <!--mon CV : -->
+    ( > )>     me contacter : pat.mulot.pro@gmail.com
