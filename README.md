@@ -1,3 +1,4 @@
+
 ![img-cul-de-chouette](https://github.com/patmulot/patmulot/blob/main/img/img-cul-de-chouette.jpg)
 ###  :metal: Hi there :metal:
 ## Développeur web fullstack - PHP (+ spé wordpress)
@@ -49,10 +50,11 @@ repo git : https://github.com/patmulot/space-patvaders
 
 ***Penser a activer le bouton "ON" de la gameboy pour lancer le jeu***
 
-![space-patvaders-img1](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img1.JPG {width=40px height=400px})
+![space-patvaders-img1](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img1.JPG} = 250px)
 
 ![space-patvaders-img2](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img2.JPG = 250px)
-
+![space-patvaders-img1](https://user-images.githubusercontent.com/80677100/132697658-f92e1a66-1399-44a0-9d76-5c512e0d6680.JPG = 250px)
+![space-patvaders-img2](https://user-images.githubusercontent.com/80677100/132697663-b50f0be6-41cc-41df-a504-63b37cf0e7d4.JPG = 250px)
 
 
     (\/)
