@@ -17,6 +17,9 @@
 principaux langages/techno utilisés :
 - Wordpress (pour le back)
 - Vuejs (pour le front)
+- sass/bootstrap
+- pluginsWP (ACF, JWT)
+- axios
 
 repo git back :
 
@@ -66,6 +69,23 @@ repo git : https://github.com/patmulot/elem-creator
 *outil de dessin / création d'éléments (un peu façon DAO), création d'éléments du dom et modification de règles CSS via javascript. Appuyer sur le bouton plus pour ajouter un nouvel élément et modifier sa taille, sa forme, sa couleur, sa position, ajouter d'autres éléments.*
 
 ![elem-creator-img2](https://github.com/patmulot/elem-creator/blob/main/elem-creator-img2.JPG)
+
+
+---
+## TMNTz PIZZA
+principaux langages/techno utilisés :
+- Wordpress (theme custom, custom post type, custom taxo, customziers)
+- Javascript Vanilla
+- Parcel
+
+repo git : https://github.com/patmulot/tmntz-pizza
+  
+  
+*site web de pizza tortue ninja, mise en scène d'un site web destiné à la vente/commande/livraison de pizza inspiré d'autres site du genre - projet 100% Wordpress (mise en place d'un theme utilisant des custom post type, custom taxo, des customizers, parcel / sass et un peu de js côté front)*
+
+![tmntz-pizza-img2](https://github.com/patmulot/tmntz-pizza/blob/main/tmntz-pizza-img2.JPG)
+![tmntz-pizza-img3](https://github.com/patmulot/tmntz-pizza/blob/main/tmntz-pizza-img3.JPG)
+![tmntz-pizza-img4](https://github.com/patmulot/tmntz-pizza/blob/main/tmntz-pizza-img4.JPG)
 
 
     (\/)
