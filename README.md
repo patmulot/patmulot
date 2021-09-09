@@ -1,16 +1,31 @@
 ![img-cul-de-chouette](https://github.com/patmulot/patmulot/blob/main/img/img-cul-de-chouette.jpg)
-### Hi there 👋
+###  🤘 :metal: Hi there :metal: 🤘
+*Ancien Concepteur/développeur de produits industriels en bureau d’études orienté eco-conception 💡 :bulb: 🔍 :mag: ainsi qu’ancien musicien professionnel 🤘 reconverti dans le developpement web.*
 
-**patmulot/patmulot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MES DERNIERS TRAVAUX :
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## GETGIG (http://get-gig.surge.sh/)
+Principales technologies utilisées :
+- Wordpress (pour le back)
+- Vuejs (pour le front)
 
+projet back :
+
+projet front :
+  
+  
+*site de booking / mise en relation entre des artistes ou des organisateur d'évènement via un système d'annonce et de messagerie.*
+
+
+## CUL DE CHOUTETE
+Principales technologies utilisées :
+- Wordpress (pour le back)
+- Vuejs (pour le front)
+
+projet back :
+
+projet front :
+  
+  
+*site de booking / mise en relation entre des artistes ou des organisateur d'évènement via un système d'annonce et de messagerie.*
