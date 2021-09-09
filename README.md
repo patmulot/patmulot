@@ -8,9 +8,11 @@
 
 #creativity #thereAreOnlySolutions 
 
+
 ---
 # MES DERNIERS PROJETS 
 *travaux effectués ces 5 derniers mois (avril-aout) en paralèlle de ma formation au près de l'organisme O'clock*
+
 
 ---
 ## GETGIG (http://get-gig.surge.sh/)
@@ -26,6 +28,12 @@ repo git back :
 repo git front :
   
 *site de booking / mise en relation entre des artistes ou des organisateur d'évènement via un système d'annonce et de messagerie.*
+
+![getgig-img1](https://github.com/patmulot/getgig/blob/main/getgig-img1.JPG)
+
+![getgig-img2](https://github.com/patmulot/getgig/blob/main/getgig-img2.JPG)
+
+![getgig-img2](https://github.com/patmulot/getgig/blob/main/getgig-img3.JPG)
 
 ---
 ## CUL DE CHOUTETE
@@ -90,5 +98,5 @@ repo git : https://github.com/patmulot/tmntz-pizza
 
 
     (\/)
-    (^.^)      <!--mon CV : -->
+    (^.^)      
     ( > )>     me contacter : pat.mulot.pro@gmail.com
