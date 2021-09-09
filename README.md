@@ -49,7 +49,7 @@ repo git : https://github.com/patmulot/space-patvaders
 
 ***Penser a activer le bouton "ON" de la gameboy pour lancer le jeu***
 
-![space-patvaders-img1](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img1.JPG = 250px)
+![space-patvaders-img1](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img1.JPG {width=40px height=400px})
 
 ![space-patvaders-img2](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img2.JPG = 250px)
 
