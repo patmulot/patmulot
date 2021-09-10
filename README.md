@@ -13,6 +13,7 @@
 # MES DERNIERS PROJETS 
 *travaux effectués ces 5 derniers mois (avril-aout) en paralèlle de ma formation au près de l'organisme O'clock*
 
+*voir tous les projets : https://github.com/patmulot?tab=repositories*
 
 ---
 ## GETGIG (http://get-gig.surge.sh/)
