@@ -27,9 +27,7 @@ principaux langages/techno utilisés :
 - pluginsWP (ACF, JWT)
 - axios
 
-repo git back :
-
-repo git front :
+repo git : https://github.com/patmulot/getgig
 
 ![getgig-img1](https://github.com/patmulot/getgig/blob/main/getgig-img1.JPG)
 
