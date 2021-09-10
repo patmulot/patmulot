@@ -128,6 +128,23 @@ repo git : https://github.com/patmulot/messenger
 ![messenger-img1](https://github.com/patmulot/messenger/blob/main/messenger-img1.JPG)
 
 
+---
+## Wordpress-Book
+
+*développement d'un projet Wordpress/Vuejs inspiré du réseau social bien connut qu'est Facebook. C'est le projet sur lequel je travail actuellement il n'est donc pas du tout terminé ni très avancé. (ici ce que je souhaitais travailler était la consommation d'un back Wordpress via la rest API couplé à un affichage front 100% vuejs)*
+
+principaux langages/techno utilisés :
+- WORDPRESS (Custom post types / API rest / back WP)
+- VUEJS
+- Axios
+- PHP
+- Javascript
+
+repo git : https://github.com/patmulot/wordpress-Book
+
+![wordpressBook-img1](https://github.com/patmulot/wordpress-Book/blob/main/wordpressBook-img1.JPG)
+
+
 
 
 
