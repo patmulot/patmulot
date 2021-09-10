@@ -27,6 +27,8 @@ principaux langages/techno utilisés :
 - pluginsWP (ACF, JWT)
 - axios
 
+vidéo de présentation : https://www.youtube.com/watch?v=7GT93XmlNdo
+vidéo de présentation (code) : https://www.youtube.com/watch?v=aeZzCyHtPoo
 repo git : https://github.com/patmulot/getgig
 
 ![getgig-img1](https://github.com/patmulot/getgig/blob/main/getgig-img1.JPG)
@@ -42,6 +44,7 @@ principaux langages/techno utilisés :
 - php
 - Javascript Vanilla
 
+video de présentation : https://www.youtube.com/watch?v=RuHjPxB_zV4
 repo git : https://github.com/patmulot/cul-de-chouette
 
 ![cdc-img1](https://github.com/patmulot/cul-de-chouette/blob/main/cdc-img1.JPG)
@@ -56,6 +59,7 @@ principaux langages/techno utilisés :
 - css
 - Javascript Vanilla
 
+vidéo de présentation : https://www.youtube.com/watch?v=QPg4m61LuYk
 repo git : https://github.com/patmulot/space-patvaders
   
 ***Penser a activer le bouton "ON" de la gameboy pour lancer le jeu***
@@ -73,6 +77,7 @@ principaux langages/techno utilisés :
 - Javascript Vanilla
 - Parcel
 
+video de présentation : https://youtu.be/VKMj_V8ibD8
 repo git : https://github.com/patmulot/elem-creator
 
 ![elem-creator-img2](https://github.com/patmulot/elem-creator/blob/main/elem-creator-img2.JPG)
@@ -88,10 +93,9 @@ principaux langages/techno utilisés :
 - Javascript Vanilla
 - Parcel
 
+vidéo de présentation : https://www.youtube.com/watch?v=e023ZhM1Sis
 repo git : https://github.com/patmulot/tmntz-pizza
 
-<!-- ![tmntz-pizza-img2](https://github.com/patmulot/tmntz-pizza/blob/main/tmntz-pizza-img2.JPG)
-![tmntz-pizza-img3](https://github.com/patmulot/tmntz-pizza/blob/main/tmntz-pizza-img3.JPG) -->
 ![tmntz-pizza-img4](https://github.com/patmulot/tmntz-pizza/blob/main/tmntz-pizza-img4.JPG)
 
 
@@ -105,6 +109,7 @@ principaux langages/techno utilisés :
 - SQL (adminer)
 - Architecture MVC (MODElS/VIEWS/CONTROLLERS, altorouteur/altodispatcher)
 
+video de présentation : https://www.youtube.com/watch?v=IGyNr2gvkBw
 repo git : https://github.com/patmulot/mvc-tmnt
 
 ![tmnt-back-img2](https://github.com/patmulot/mvc-tmnt/blob/main/tmnt-back-img2.JPG)
@@ -122,6 +127,7 @@ principaux langages/techno utilisés :
 - AJAX
 - Json
 
+video de présentation : https://www.youtube.com/watch?v=NHkbE1LPnJI
 repo git : https://github.com/patmulot/messenger
 
 ![messenger-img1](https://github.com/patmulot/messenger/blob/main/messenger-img1.JPG)
@@ -139,6 +145,7 @@ principaux langages/techno utilisés :
 - PHP
 - Javascript
 
+vidéo de présentation : https://www.youtube.com/watch?v=JMJeNfnqBcA
 repo git : https://github.com/patmulot/wordpress-Book
 
 ![wordpressBook-img1](https://github.com/patmulot/wordpress-Book/blob/main/wordpressBook-img1.JPG)
