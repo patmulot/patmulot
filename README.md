@@ -4,7 +4,7 @@
 ## Développeur web fullstack - PHP (+ spé wordpress)
 *A propos :*
 
-*Ancien Concepteur/développeur de produits industriels en bureau d’études orienté eco-conception :bulb: :mag: ainsi qu’ancien musicien professionnel :guitar: reconverti dans le developpement web.*
+*Ancien musicien professionnel :guitar: ainsi qu’ancien Concepteur/développeur de produits industriels en bureau d’études orienté eco-conception :bulb: reconverti dans le developpement web.*
 
 #creativity #thereAreOnlySolutions 
 
@@ -16,6 +16,9 @@
 
 ---
 ## GETGIG (http://get-gig.surge.sh/)
+  
+*site de booking / mise en relation entre des artistes ou des organisateur d'évènement via un système d'annonce et de messagerie.*
+
 principaux langages/techno utilisés :
 - Wordpress (pour le back)
 - Vuejs (pour le front)
@@ -26,36 +29,36 @@ principaux langages/techno utilisés :
 repo git back :
 
 repo git front :
-  
-*site de booking / mise en relation entre des artistes ou des organisateur d'évènement via un système d'annonce et de messagerie.*
 
 ![getgig-img1](https://github.com/patmulot/getgig/blob/main/getgig-img1.JPG)
 
+
 ---
 ## CUL DE CHOUTETE
+  
+*Jeu de dés "le cul de chouette" de la série Kaamelott, découverte de javascript (animation des dés et algo pour la gestion des règles du jeu et intelligence articifielle), découverte des base de données/requêtes sql (pour la gestion des scores et des statistiques joueurs)*
+
 principaux langages/techno utilisés :
 - sql (adminer)
 - php
 - Javascript Vanilla
 
 repo git : https://github.com/patmulot/cul-de-chouette
-  
-*Jeu de dés "le cul de chouette" de la série Kaamelott, découverte de javascript (animation des dés et algo pour la gestion des règles du jeu et intelligence articifielle), découverte des base de données/requêtes sql (pour la gestion des scores et des statistiques joueurs)*
 
 ![cdc-img1](https://github.com/patmulot/cul-de-chouette/blob/main/cdc-img1.JPG)
 
 
 ---
 ## SPACE PATVADERS
+
+*jeu inspiré de "space invaders" 100% javascript vanilla avec un designe de gameboy 100% CSS pire*
+
 principaux langages/techno utilisés :
 - css
 - Javascript Vanilla
 
 repo git : https://github.com/patmulot/space-patvaders
   
-  
-*jeu inspiré de "space invaders" 100% javascript vanilla avec un designe de gameboy 100% CSS pire*
-
 ***Penser a activer le bouton "ON" de la gameboy pour lancer le jeu***
 
 ![space-patvaders-img2](https://github.com/patmulot/space-patvaders/blob/main/space-patvaders-img2.JPG)
@@ -63,34 +66,49 @@ repo git : https://github.com/patmulot/space-patvaders
 
 ---
 ## ELEM CREATOR
+
+*outil de dessin / création d'éléments (un peu façon DAO), création d'éléments du dom et modification de règles CSS via javascript. Appuyer sur le bouton plus pour ajouter un nouvel élément et modifier sa taille, sa forme, sa couleur, sa position, ajouter d'autres éléments.*
+
 principaux langages/techno utilisés :
 - SASS
 - Javascript Vanilla
 - Parcel
 
 repo git : https://github.com/patmulot/elem-creator
-  
-  
-*outil de dessin / création d'éléments (un peu façon DAO), création d'éléments du dom et modification de règles CSS via javascript. Appuyer sur le bouton plus pour ajouter un nouvel élément et modifier sa taille, sa forme, sa couleur, sa position, ajouter d'autres éléments.*
 
 ![elem-creator-img2](https://github.com/patmulot/elem-creator/blob/main/elem-creator-img2.JPG)
 
 
 ---
 ## TMNTz PIZZA
+
+*site web de pizza tortue ninja, mise en scène d'un site web destiné à la vente/commande/livraison de pizza inspiré d'autres site du genre - projet 100% Wordpress (mise en place d'un theme utilisant des custom post type, custom taxo, des customizers, parcel / sass et un peu de js côté front)*
+
 principaux langages/techno utilisés :
 - Wordpress (theme custom, custom post type, custom taxo, customziers)
 - Javascript Vanilla
 - Parcel
 
 repo git : https://github.com/patmulot/tmntz-pizza
-  
-  
-*site web de pizza tortue ninja, mise en scène d'un site web destiné à la vente/commande/livraison de pizza inspiré d'autres site du genre - projet 100% Wordpress (mise en place d'un theme utilisant des custom post type, custom taxo, des customizers, parcel / sass et un peu de js côté front)*
 
 <!-- ![tmntz-pizza-img2](https://github.com/patmulot/tmntz-pizza/blob/main/tmntz-pizza-img2.JPG)
 ![tmntz-pizza-img3](https://github.com/patmulot/tmntz-pizza/blob/main/tmntz-pizza-img3.JPG) -->
 ![tmntz-pizza-img4](https://github.com/patmulot/tmntz-pizza/blob/main/tmntz-pizza-img4.JPG)
+
+
+---
+## MVC - tmnt
+
+*Architecture MVC - mise en place d'un projet BACK (ici l'exercice que je m'étais fixé etait de pouvoir faire un modèle générique de ***backoffice, qui s'auto crée/alimente*** en fonction du nombre de tables de la base de données, du nombre de colonnes etc.. chaque page du back office propose donc des tableau pour ajouter/supprimer/mettre a jour des "produits" qu'il trouve tout seul dans la base de donnée et ce peu importe le projet. Il n'y a donc plus rien d'autre à faire que de bien renseigner la base de donnée à la création du projet et le modèle s'occupe du reste). Ce back alimente un front "simple" (ici c'est un modèle simple de front avec une home qui donne quelques produits, des liens dans le nav qui donne accès a la liste de produits ou des types de produit, et l'affichage du détail d'un produit) l'idée de ce projet était principalement de pouvoir créer 2 modèles de sites FRONT et BACK le plus automatisés possibles (un peu façon CMS mais tout codé à la main en php). Ce projet respecte l'architecture MVC et utilise Altorouter et Altodispatcher pour la gestion des routes vers les différents controllers/models.*
+
+principaux langages/techno utilisés :
+- PHP
+- SQL (adminer)
+- Architecture MVC (MODElS/VIEWS/CONTROLLERS, altorouteur/altodispatcher)
+
+repo git : https://github.com/patmulot/mvc-tmnt
+
+![tmnt-back-img2](https://github.com/patmulot/mvc-tmnt/blob/main/tmnt-back-img2.JPG)
 
 
     (\/)
