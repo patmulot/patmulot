@@ -56,7 +56,7 @@ repo git : https://github.com/patmulot/cul-de-chouette
 ---
 ## SPACE PATVADERS
 
-*jeu inspiré de "space invaders" 100% javascript vanilla avec un designe de gameboy 100% CSS pire*
+*jeu inspiré de "space invaders" 100% javascript vanilla avec un designe de gameboy 100% CSS pure*
 
 principaux langages/techno utilisés :
 - css
