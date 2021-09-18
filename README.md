@@ -50,7 +50,7 @@ video de présentation : https://www.youtube.com/watch?v=RuHjPxB_zV4
 
 repo git : https://github.com/patmulot/cul-de-chouette
 
-![cdc-img1](https://github.com/patmulot/cul-de-chouette/blob/main/cdc-img1.JPG)
+![cdc-img1](https://github.com/patmulot/cul-de-chouette/blob/master/cdc-img1.JPG)
 
 
 ---
