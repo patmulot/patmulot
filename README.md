@@ -1,5 +1,5 @@
 
-![banni%C3%A8re%20github](https://github.com/patmulot/patmulot/blob/main/img/banni%C3%A8re%20github.jpg)
+![banni%C3%A8re%20github](https://github.com/patmulot/patmulot/blob/main/img/bannière_github-2.jpg)
 ###  :metal: Hi there :metal:
 ## Développeur web fullstack - PHP (+ spé wordpress)
 *A propos :*
